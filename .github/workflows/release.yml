@@ -5,6 +5,7 @@ on:
     tags:
       - 'v*.*.*'
 
+
 jobs:
   build-and-release:
     name: Build and Release
